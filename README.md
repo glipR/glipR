@@ -3,7 +3,6 @@
 ## About me
 - 🔭 I’m currently teaching, after completing a Bachelor of Computer Science + Honours in Pure Mathematics.
 - 💼 Also currently working at AfterPay as a Data Engineer.
-- 📫 How to reach me: I'm on discord at jackson#5358
 - More info: [here](http://me.glipr.xyz)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
